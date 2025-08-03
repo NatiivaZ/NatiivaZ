@@ -20,11 +20,11 @@
 
 ---
 
-## 🛠️ **TECNOLOGIAS DETECTADAS AUTOMATICAMENTE**
+## 🛠️ **STACK TECNOLÓGICO**
 
 <div align="center">
 
-<!-- Linguagens principais detectadas dos repositórios -->
+<!-- Linguagens principais -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -55,31 +55,6 @@
 
 </div>
 
-### 🎯 **ANÁLISE AUTOMÁTICA DE REPOSITÓRIOS**
-
-<div align="center">
-
-```python
-# Análise automática dos seus repositórios
-class AnaliseRepositorios:
-  def __init__(self, username="NatiivaZ"):
-      self.repos = self.get_repos_data()
-      self.linguagens = self.detectar_linguagens()
-      self.commits = self.contar_commits()
-  
-  def metricas_automaticas(self):
-      return {
-          "🐍 Projetos Python": f"{self.count_python_repos()}",
-          "🔌 APIs Criadas": f"{self.count_api_repos()}",
-          "📊 Scripts de Análise": f"{self.count_data_repos()}",
-          "⚡ Automações": f"{self.count_automation_repos()}",
-          "📈 Commits este ano": f"{self.commits_this_year}",
-          "🔥 Streak atual": f"{self.current_streak} dias"
-      }
-```
-
-</div>
-
 ---
 
 ## 🏆 **CONQUISTAS E BADGES AUTOMÁTICAS**
@@ -102,9 +77,7 @@ class AnaliseRepositorios:
 
 ---
 
-## 💼 **PORTFÓLIO AUTOMATIZADO**
-
-### 🚀 **Projetos Destacados (Atualizados Automaticamente)**
+## 💼 **PROJETOS EM DESTAQUE**
 
 <div align="center">
 
@@ -120,41 +93,17 @@ class AnaliseRepositorios:
 
 ---
 
-## 🎯 **COMPETÊNCIAS TÉCNICAS DETECTADAS**
+## 🎯 **COMPETÊNCIAS TÉCNICAS**
 
 <div align="center">
 
-| **Categoria** | **Tecnologias** | **Nível** | **Projetos** |
-|---------------|-----------------|-----------|--------------|
-| **🐍 Backend** | Python, FastAPI, Flask | ![90%](https://progress-bar.dev/90?color=00D4FF) | ![Repos](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNatiivaZ) |
-| **🗄️ Database** | SQL, PostgreSQL, MySQL | ![85%](https://progress-bar.dev/85?color=00D4FF) | Auto-detectado |
-| **🔌 APIs** | REST, JSON, Integrations | ![88%](https://progress-bar.dev/88?color=00D4FF) | Auto-detectado |
-| **📊 Data Science** | Pandas, NumPy, Analysis | ![82%](https://progress-bar.dev/82?color=00D4FF) | Auto-detectado |
-| **⚡ Automation** | Scripts, Bots, Scrapers | ![87%](https://progress-bar.dev/87?color=00D4FF) | Auto-detectado |
-
-</div>
-
----
-
-## 📈 **IMPACTO E RESULTADOS**
-
-<div align="center">
-
-```python
-class ResultadosComprovados:
-  def __init__(self):
-      self.metricas = self.calcular_impacto()
-  
-  def impacto_automatizado(self):
-      return {
-          "📊 Linhas de código": f"{self.total_lines_of_code:,}+",
-          "🔧 Repositórios ativos": f"{self.active_repos}",
-          "⭐ Stars recebidas": f"{self.total_stars}",
-          "🍴 Forks gerados": f"{self.total_forks}",
-          "👥 Seguidores": f"{self.followers}",
-          "🔥 Contribuições/ano": f"{self.contributions_this_year:,}"
-      }
-```
+| **Área** | **Tecnologias** | **Experiência** |
+|----------|-----------------|-----------------|
+| **🐍 Backend** | Python, FastAPI, Flask | ![90%](https://progress-bar.dev/90?color=00D4FF) |
+| **🗄️ Database** | SQL, PostgreSQL, MySQL | ![85%](https://progress-bar.dev/85?color=00D4FF) |
+| **🔌 APIs** | REST, JSON, Integrations | ![88%](https://progress-bar.dev/88?color=00D4FF) |
+| **📊 Data Science** | Pandas, NumPy, Analysis | ![82%](https://progress-bar.dev/82?color=00D4FF) |
+| **⚡ Automation** | Scripts, Bots, Scrapers | ![87%](https://progress-bar.dev/87?color=00D4FF) |
 
 </div>
 
@@ -215,30 +164,6 @@ class ResultadosComprovados:
 **⚡ README atualizado automaticamente via GitHub Actions ⚡**
 
 </div>
-
----
-
-## 🤖 **AUTOMAÇÃO GITHUB ACTIONS**
-
-```yaml
-# .github/workflows/update-readme.yml
-name: Update README
-on:
-schedule:
-  - cron: '0 0 * * *'  # Atualiza diariamente
-push:
-  branches: [ main ]
-
-jobs:
-update-readme:
-  runs-on: ubuntu-latest
-  steps:
-    - uses: actions/checkout@v2
-    - name: Update README with latest data
-      uses: jamesgeorge007/github-activity-readme@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
