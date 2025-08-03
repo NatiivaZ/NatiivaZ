@@ -12,9 +12,9 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/SEU_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatiivaZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/SEU_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatiivaZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://github.com/SEU_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NatiivaZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://github.com/NatiivaZ)
 
 </div>
 
@@ -62,7 +62,7 @@
 ```python
 # Análise automática dos seus repositórios
 class AnaliseRepositorios:
-  def __init__(self, username="SEU_USERNAME"):
+  def __init__(self, username="NatiivaZ"):
       self.repos = self.get_repos_data()
       self.linguagens = self.detectar_linguagens()
       self.commits = self.contar_commits()
@@ -86,7 +86,7 @@ class AnaliseRepositorios:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/SEU_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NatiivaZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/NatiivaZ)
 
 </div>
 
@@ -96,7 +96,7 @@ class AnaliseRepositorios:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/SEU_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NatiivaZ&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/NatiivaZ)
 
 </div>
 
@@ -108,9 +108,13 @@ class AnaliseRepositorios:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/SEU_USERNAME/NOME_REPO_1)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=AutomationV2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/AutomationV2)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/SEU_USERNAME/NOME_REPO_2)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=Organizador-de-Demandas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/Organizador-de-Demandas)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=Automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/Automation)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=Portifolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/Portifolio)
 
 </div>
 
@@ -122,7 +126,7 @@ class AnaliseRepositorios:
 
 | **Categoria** | **Tecnologias** | **Nível** | **Projetos** |
 |---------------|-----------------|-----------|--------------|
-| **🐍 Backend** | Python, FastAPI, Flask | ![90%](https://progress-bar.dev/90?color=00D4FF) | ![Repos](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEU_USERNAME) |
+| **🐍 Backend** | Python, FastAPI, Flask | ![90%](https://progress-bar.dev/90?color=00D4FF) | ![Repos](https://img.shields.io/badge/dynamic/json?color=00D4FF&label=repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNatiivaZ) |
 | **🗄️ Database** | SQL, PostgreSQL, MySQL | ![85%](https://progress-bar.dev/85?color=00D4FF) | Auto-detectado |
 | **🔌 APIs** | REST, JSON, Integrations | ![88%](https://progress-bar.dev/88?color=00D4FF) | Auto-detectado |
 | **📊 Data Science** | Pandas, NumPy, Analysis | ![82%](https://progress-bar.dev/82?color=00D4FF) | Auto-detectado |
@@ -192,10 +196,10 @@ class ResultadosComprovados:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561999999999)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-natividade-a09806360)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan.natividade1@icloud.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561995103383)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nativaz.cloudx.dev.br)
 
 </div>
 
@@ -205,7 +209,7 @@ class ResultadosComprovados:
 
 ### 🎯 **"Transformando dados em insights, códigos em soluções"**
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=00D4FF&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=NatiivaZ&color=00D4FF&style=for-the-badge)
 ![Last Updated](https://img.shields.io/badge/Atualizado-Automaticamente-00D4FF?style=for-the-badge)
 
 **⚡ README atualizado automaticamente via GitHub Actions ⚡**
@@ -242,6 +246,6 @@ update-readme:
 
 **🚀 Este README é 100% automatizado e se atualiza sozinho! 🚀**
 
-*Última atualização automática: ![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USERNAME/SEU_USERNAME?color=00D4FF&style=flat-square)*
+*Última atualização automática: ![GitHub last commit](https://img.shields.io/github/last-commit/NatiivaZ/NatiivaZ?color=00D4FF&style=flat-square)*
 
 </div>
