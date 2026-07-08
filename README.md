@@ -1,176 +1,49 @@
-# <div align="center">🚀 Ruan Natividade</div>
+# Ruan Natividade
 
-<div align="center">
+Analista de dados · Brasília/DF  
+Desenvolvimento de soluções para análise de bases, automação de processos e integração com APIs no contexto CCOBI–SERASA (ANTT).
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Python+%F0%9F%90%8D;Especialista+em+APIs+REST+%F0%9F%94%8C;Analista+de+Dados+%F0%9F%93%8A;23+anos+%7C+Bras%C3%ADlia%2FDF+%F0%9F%8C%86)
-
-</div>
-
----
-
-## 📊 **ESTATÍSTICAS AUTOMÁTICAS DO GITHUB**
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NatiivaZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NatiivaZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ)
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/ruan-natividade) · [Portfólio](https://natiivaz.github.io/Portifolio-/) · [E-mail](mailto:ruan.natividade1@icloud.com)
 
 ---
 
-## 🛠️ **STACK TECNOLÓGICO**
+## Sobre
 
-<div align="center">
+Trabalho com tratamento e cruzamento de bases, relatórios operacionais e ferramentas que reduzam trabalho manual em fluxos da Dívida Ativa, SERASA e CADIN.
 
-<!-- Linguagens principais -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- Frameworks e bibliotecas -->
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-<!-- Ferramentas -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
+Foco em **clareza dos dados**, **rastreabilidade** e **ferramentas usáveis pela equipe** — seja em apps de análise ou em automações e integrações.
 
 ---
 
-## 📈 **MÉTRICAS DE PERFORMANCE EM TEMPO REAL**
+## Projetos em destaque
 
-<div align="center">
+| Projeto | Descrição |
+|---------|-----------|
+| [ccobi-sistema-comparacao-serasa](https://github.com/NatiivaZ/ccobi-sistema-comparacao-serasa) | Comparação de bases SERASA × Dívida Ativa, com métricas e exportação |
+| [ccobi-filtro-vencimento-divida](https://github.com/NatiivaZ/ccobi-filtro-vencimento-divida) | Comparação de extrações por ano de vencimento e histórico |
+| [ccobi-api-serasa-pefin](https://github.com/NatiivaZ/ccobi-api-serasa-pefin) | Plataforma de inclusão e exclusão PEFIN em massa (API + interface) |
+| [ccobi-inclusao-cadin](https://github.com/NatiivaZ/ccobi-inclusao-cadin) | Automação de inclusão no CADIN a partir de planilha |
+| [ccobi-baixas-cadin](https://github.com/NatiivaZ/ccobi-baixas-cadin) | Automação de baixas jurídicas no CADIN (Consulta Credora) |
+| [ccobi-reclassificador-exportacoes-serasa](https://github.com/NatiivaZ/ccobi-reclassificador-exportacoes-serasa) | Reclassificação de exportações SERASA |
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NatiivaZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF)](https://github.com/NatiivaZ)
-
-</div>
-
----
-
-## 🏆 **CONQUISTAS E BADGES AUTOMÁTICAS**
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NatiivaZ&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/NatiivaZ)
-
-</div>
+Lista completa: [repositórios](https://github.com/NatiivaZ?tab=repositories).
 
 ---
 
-## 📊 **DASHBOARD DE ATIVIDADES**
+## Competências
 
-<div align="center">
+**Linguagens e dados:** Python · TypeScript · SQL · Excel  
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NatiivaZ&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FF6B6B)](https://github.com/NatiivaZ)
+**Análise e apps:** Streamlit · Pandas · relatórios e dashboards  
 
-</div>
+**Automação e APIs:** integração REST · processamento em lote · filas e webhooks  
 
----
-
-## 💼 **PROJETOS EM DESTAQUE**
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=AutomationV2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/AutomationV2)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=Organizador-de-Demandas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/Organizador-de-Demandas)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=Automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/Automation)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=NatiivaZ&repo=Portifolio&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF)](https://github.com/NatiivaZ/Portifolio)
-
-</div>
+**Bancos e persistência:** SQLite · PostgreSQL  
 
 ---
 
-## 🎯 **COMPETÊNCIAS TÉCNICAS**
+## Contato
 
-<div align="center">
-
-| **Área** | **Tecnologias** | **Experiência** |
-|----------|-----------------|-----------------|
-| **🐍 Backend** | Python, FastAPI, Flask | ![90%](https://progress-bar.dev/90?color=00D4FF) |
-| **🗄️ Database** | SQL, PostgreSQL, MySQL | ![85%](https://progress-bar.dev/85?color=00D4FF) |
-| **🔌 APIs** | REST, JSON, Integrations | ![88%](https://progress-bar.dev/88?color=00D4FF) |
-| **📊 Data Science** | Pandas, NumPy, Analysis | ![82%](https://progress-bar.dev/82?color=00D4FF) |
-| **⚡ Automation** | Scripts, Bots, Scrapers | ![87%](https://progress-bar.dev/87?color=00D4FF) |
-
-</div>
-
----
-
-## 🌟 **PERFIL PROFISSIONAL**
-
-<div align="center">
-
-### 👨‍💻 **Ruan Natividade | 23 anos | Brasília/DF**
-
-**🎯 Desenvolvedor Python especializado em criar soluções que geram valor real**
-
-</div>
-
-#### ✨ **Diferenciais Competitivos:**
-
-- **🚀 Código Eficiente**: Soluções otimizadas que reduzem tempo de processamento
-- **📊 Data-Driven**: Decisões baseadas em análise de dados e métricas
-- **🔌 Integração**: APIs robustas para conectar sistemas complexos  
-- **⚡ Automação**: Scripts que eliminam tarefas manuais repetitivas
-- **📈 Escalabilidade**: Arquiteturas que crescem com o negócio
-
----
-
-## 🎓 **APRENDIZADO CONTÍNUO**
-
-<div align="center">
-
-![Learning](https://img.shields.io/badge/Estudando-Cloud%20Computing-blue?style=for-the-badge&logo=amazonaws)
-![Learning](https://img.shields.io/badge/Estudando-DevOps-orange?style=for-the-badge&logo=docker)
-![Learning](https://img.shields.io/badge/Estudando-Microserviços-green?style=for-the-badge&logo=kubernetes)
-
-</div>
-
----
-
-## 📞 **CONTATO PROFISSIONAL**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-natividade-a09806360)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan.natividade1@icloud.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561995103383)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://nativaz.cloudx.dev.br)
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **"Transformando dados em insights, códigos em soluções"**
-
-![Profile Views](https://komarev.com/ghpvc/?username=NatiivaZ&color=00D4FF&style=for-the-badge)
-![Last Updated](https://img.shields.io/badge/Atualizado-Automaticamente-00D4FF?style=for-the-badge)
-
-**⚡ README atualizado automaticamente via GitHub Actions ⚡**
-
-</div>
-
----
-
-<div align="center">
-
-**🚀 Este README é 100% automatizado e se atualiza sozinho! 🚀**
-
-*Última atualização automática: ![GitHub last commit](https://img.shields.io/github/last-commit/NatiivaZ/NatiivaZ?color=00D4FF&style=flat-square)*
-
-</div>
+- LinkedIn: [ruan-natividade](https://www.linkedin.com/in/ruan-natividade)  
+- GitHub: [NatiivaZ](https://github.com/NatiivaZ)  
+- E-mail: [ruan.natividade1@icloud.com](mailto:ruan.natividade1@icloud.com)
