@@ -54,14 +54,14 @@ Desenvolvo soluções de **análise de dados** e **automação de processos** no
 <div align="center">
 
 <a href="https://github.com/NatiivaZ">
-  <img src="https://streak-stats.demolab.com?user=NatiivaZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NatiivaZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8" alt="GitHub streak"/>
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/github/followers/NatiivaZ?style=for-the-badge&logo=github&label=Followers&color=38bdf8" alt="followers"/>
 <img src="https://img.shields.io/github/stars/NatiivaZ?affiliation=owner&style=for-the-badge&logo=github&label=Stars&color=a78bfa" alt="stars"/>
-<img src="https://img.shields.io/badge/Repos%20CCOBI-11%20reposit%C3%B3rios-10b981?style=for-the-badge&logo=github" alt="repos"/>
+<img src="https://img.shields.io/badge/Projetos%20CCOBI-11%20solu%C3%A7%C3%B5es-10b981?style=for-the-badge&logo=github" alt="repos"/>
 <img src="https://img.shields.io/badge/Foco-Dados%20%7C%20API%20%7C%20Automa%C3%A7%C3%A3o-38bdf8?style=for-the-badge" alt="foco"/>
 
 </div>
@@ -70,16 +70,26 @@ Desenvolvo soluções de **análise de dados** e **automação de processos** no
 
 ## 🔥 Projetos principais — CCOBI / ANTT
 
-### 🥇 Destaque absoluto — API SERASA / PEFIN
+### 🥇 Destaque — API SERASA · PEFIN em Massa
 
-[![API PEFIN](https://img.shields.io/badge/ccobi--api--serasa--pefin-PEFIN%20em%20massa-0ea5e9?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
-[![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
-[![Nest](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
-[![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
+<p align="center">
+  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
+    <img src="https://img.shields.io/badge/API%20SERASA%20%C2%B7%20PEFIN-Plataforma%20completa-0ea5e9?style=for-the-badge&logo=nestjs&logoColor=white" alt="API SERASA PEFIN"/>
+  </a>
+  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
+  </a>
+  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  </a>
+</p>
 
-**Plataforma de inclusão e exclusão PEFIN em massa**  
-Filas · rate limit · webhooks · dashboard em tempo real · homologação/produção  
-→ [Abrir repositório](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
+**Inclusão e exclusão PEFIN em massa** — filas, rate limit, webhooks, dashboard em tempo real e ambientes de homologação/produção.
+
+→ [**Abrir repositório**](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
 
 ---
 
@@ -87,16 +97,31 @@ Filas · rate limit · webhooks · dashboard em tempo real · homologação/prod
 
 | Projeto | Stack | Entrega |
 |---------|-------|---------|
-| [**ccobi-sistema-comparacao-serasa**](https://github.com/NatiivaZ/ccobi-sistema-comparacao-serasa) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Cruzamento SERASA × Dívida Ativa, métricas e Excel |
-| [**ccobi-filtro-vencimento-divida**](https://github.com/NatiivaZ/ccobi-filtro-vencimento-divida) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Comparação por ano de vencimento + histórico |
+| [**Comparador SERASA × Dívida Ativa**](https://github.com/NatiivaZ/ccobi-sistema-comparacao-serasa) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Cruzamento de bases, métricas e exportação Excel |
+| [**Filtro de Vencimentos · Dívida Ativa**](https://github.com/NatiivaZ/ccobi-filtro-vencimento-divida) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Comparação por ano de vencimento com histórico SQLite |
 
 ### ⚙️ CADIN & exportações
 
 | Projeto | Stack | Entrega |
 |---------|-------|---------|
-| [**ccobi-inclusao-cadin**](https://github.com/NatiivaZ/ccobi-inclusao-cadin) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Inclusão CADIN em lote a partir de planilha |
-| [**ccobi-baixas-cadin**](https://github.com/NatiivaZ/ccobi-baixas-cadin) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Baixas jurídicas CADIN (Consulta Credora) |
-| [**ccobi-reclassificador-exportacoes-serasa**](https://github.com/NatiivaZ/ccobi-reclassificador-exportacoes-serasa) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Reclassificação de exportações SERASA |
+| [**Inclusão CADIN · Lote**](https://github.com/NatiivaZ/ccobi-inclusao-cadin) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Inclusão CADIN em lote a partir de planilha |
+| [**Baixas Jurídicas · CADIN**](https://github.com/NatiivaZ/ccobi-baixas-cadin) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Baixas jurídicas via Consulta Credora |
+| [**Reclassificador · Exportações SERASA**](https://github.com/NatiivaZ/ccobi-reclassificador-exportacoes-serasa) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Reclassificação de exportações SERASA |
+
+### 🤖 Automações SERASA & SIFAMA
+
+<p align="center">
+  <a href="https://github.com/NatiivaZ/ccobi-inscricao-serasa"><img src="https://img.shields.io/badge/Inscri%C3%A7%C3%A3o%20SERASA-SIFAMA%20%2F%20ANTT-6366f1?style=for-the-badge&logo=python&logoColor=white" alt="Inscrição SERASA"/></a>
+  <a href="https://github.com/NatiivaZ/ccobi-baixas-serasa"><img src="https://img.shields.io/badge/Baixas%20SERASA-Portal%20Experian-8b5cf6?style=for-the-badge&logo=python&logoColor=white" alt="Baixas SERASA"/></a>
+  <a href="https://github.com/NatiivaZ/ccobi-assinatura-lotes-sifama"><img src="https://img.shields.io/badge/Assinatura%20de%20Lotes-SIFAMA%20%2F%20DOU-f59e0b?style=for-the-badge&logo=python&logoColor=white" alt="Assinatura SIFAMA"/></a>
+</p>
+
+### 🧰 Utilitários operacionais
+
+<p align="center">
+  <a href="https://github.com/NatiivaZ/ccobi-contagem-cartas-serasa"><img src="https://img.shields.io/badge/Contagem%20de%20Cartas-SERASA-14b8a6?style=for-the-badge&logo=python&logoColor=white" alt="Contagem cartas"/></a>
+  <a href="https://github.com/NatiivaZ/ccobi-conversor-txt-xlsx"><img src="https://img.shields.io/badge/Conversor%20REGATI%2FPEFIN-TXT%20%E2%86%92%20XLSX-0d9488?style=for-the-badge&logo=python&logoColor=white" alt="Conversor TXT"/></a>
+</p>
 
 ---
 
@@ -104,9 +129,9 @@ Filas · rate limit · webhooks · dashboard em tempo real · homologação/prod
 
 | Tema | Status |
 |------|--------|
-| 🥇 Plataforma PEFIN (API SERASA) | Em evolução contínua |
-| 📊 Análise SERASA × Dívida Ativa | Em uso operacional |
-| ⚙️ Automações CADIN | Em uso operacional |
+| 🥇 **API SERASA · PEFIN** | Em evolução contínua |
+| 📊 **Comparador SERASA × Dívida Ativa** | Em uso operacional |
+| ⚙️ **Automações CADIN** | Em uso operacional |
 
 ---
 
