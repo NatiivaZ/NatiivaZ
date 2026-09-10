@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou o **Ruan Natividade**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Analista+de+Dados+%7C+Bras%C3%ADlia%2FDF;CCOBI+%E2%80%93+SERASA+%2F+ANTT;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+APIs;An%C3%A1lise+de+bases+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+PEFIN" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Analista+de+Dados+e+Automa%C3%A7%C3%A3o+%7C+Bras%C3%ADlia%2FDF;CCOBI+%E2%80%93+SERASA+%2F+ANTT;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+Full-Stack;Automa%C3%A7%C3%A3o+%C2%B7+RPA+%C2%B7+PEFIN" alt="typing" />
 
 <br/>
 
@@ -53,12 +53,6 @@ Desenvolvo soluções de **análise de dados** e **automação de processos** no
 
 <div align="center">
 
-<a href="https://github.com/NatiivaZ">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NatiivaZ&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F472B6&currStreakLabel=38BDF8" alt="GitHub streak"/>
-</a>
-
-<br/><br/>
-
 <img src="https://img.shields.io/github/followers/NatiivaZ?style=for-the-badge&logo=github&label=Followers&color=38bdf8" alt="followers"/>
 <img src="https://img.shields.io/github/stars/NatiivaZ?affiliation=owner&style=for-the-badge&logo=github&label=Stars&color=a78bfa" alt="stars"/>
 <img src="https://img.shields.io/badge/Projetos%20CCOBI-11%20solu%C3%A7%C3%B5es-10b981?style=for-the-badge&logo=github" alt="repos"/>
@@ -87,7 +81,7 @@ Desenvolvo soluções de **análise de dados** e **automação de processos** no
   </a>
 </p>
 
-**Inclusão e exclusão PEFIN em massa** — filas, rate limit, webhooks, dashboard em tempo real e ambientes de homologação/produção.
+**Inclusão e exclusão PEFIN em massa** — filas, rate limit, webhooks, dashboard em tempo real e ambientes de homologação/operação segregados.
 
 → [**Abrir repositório**](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
 
@@ -130,8 +124,8 @@ Desenvolvo soluções de **análise de dados** e **automação de processos** no
 | Tema | Status |
 |------|--------|
 | 🥇 **API SERASA · PEFIN** | Em evolução contínua |
-| 📊 **Comparador SERASA × Dívida Ativa** | Em uso operacional |
-| ⚙️ **Automações CADIN** | Em uso operacional |
+| 📊 **Comparador SERASA × Dívida Ativa** | Concluído |
+| ⚙️ **Automações CADIN** | Concluído |
 
 ---
 
@@ -139,7 +133,7 @@ Desenvolvo soluções de **análise de dados** e **automação de processos** no
 
 <div align="center">
 
-**Aberto a oportunidades em dados, automação e integração de sistemas**
+**Aberto a oportunidades em análise de dados, automação/RPA ou desenvolvimento de software**
 
 [![LinkedIn](https://img.shields.io/badge/-Ruan%20Natividade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-natividade)
 [![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://natiivaz.github.io/Portifolio-/)
