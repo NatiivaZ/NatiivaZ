@@ -1,157 +1,100 @@
 <div align="center">
 
-# 👋 Olá, eu sou o **Ruan Natividade**
+# Olá, eu sou o Ruan Natividade 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Analista+de+Dados+e+Automa%C3%A7%C3%A3o+%7C+Bras%C3%ADlia%2FDF;CCOBI+%E2%80%93+SERASA+%2F+ANTT;Python+%C2%B7+TypeScript+%C2%B7+SQL+%C2%B7+Full-Stack;Automa%C3%A7%C3%A3o+%C2%B7+RPA+%C2%B7+PEFIN" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=Analista+de+Dados+e+Automa%C3%A7%C3%A3o;Python+%C2%B7+TypeScript+%C2%B7+SQL;RPA+%C2%B7+Integra%C3%A7%C3%A3o+de+APIs+%C2%B7+Dashboards;CCOBI%2FANTT+%C2%B7+Bras%C3%ADlia%2FDF" alt="Analista de Dados e Automação · Python · TypeScript · SQL" />
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-natividade)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white)](https://natiivaz.github.io/Portifolio-/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NatiivaZ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/ruan-natividade-a09806360)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://natiivaz.github.io/Portifolio-/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan.natividade1@icloud.com)
-
-[![Profile views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNatiivaZ%2FNatiivaZ%2Fmain%2F.github%2Fprofile-views.json&query=%24.count&label=Profile%20views&color=38bdf8&style=for-the-badge)](https://github.com/NatiivaZ)
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-Desenvolvo soluções de **análise de dados** e **automação de processos** no contexto **CCOBI – SERASA (ANTT)** — cruzamento de bases, relatórios operacionais e integração com APIs de negativação / CADIN / SERASA.
+Trabalho com **análise de dados** e **automação de processos** na CCOBI (ANTT), na frente de cobrança: SERASA, CADIN, PEFIN e SIFAMA.
 
-> De planilhas e lotes manuais → **plataformas rastreáveis**, com status, exportação e acompanhamento em tempo real.
+Meu trabalho é pegar rotinas que dependiam de planilhas e cliques manuais e transformar em ferramentas que a equipe usa no dia a dia, com status, histórico e exportação.
 
 - 📊 Cruzamento e qualidade de bases (SERASA × Dívida Ativa)
-- ⚙️ Automação de fluxos CADIN e SERASA
-- 🔌 Integração PEFIN em massa (API + fila + webhooks)
-- 🧠 Foco em clareza, rastreabilidade e ferramentas usáveis pela equipe
+- 🤖 Automação de portais (RPA) para inclusões, baixas e assinaturas em lote
+- 🔌 Integração com APIs: filas, rate limit e webhooks
+- 📈 Painéis em Streamlit e Next.js para acompanhamento operacional
+
+---
+
+## ⭐ Projeto em destaque
+
+### [Negativador PEFIN · Plataforma de automação em massa](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
+
+A API do credor não aceita envio em lote. A plataforma recebe uma planilha, valida cada registro e dispara as inclusões e exclusões uma a uma, sem estourar os limites da API.
+
+- Fila assíncrona com **workers concorrentes** e **rate limit** configurável
+- **6 webhooks** para confirmação assíncrona do credor
+- **Dashboard em tempo real** com progresso por lote, reprocessamento de erros e exportação em Excel
+- Ambientes de **homologação e produção** separados, API documentada em **Swagger/OpenAPI**
+
+`TypeScript` `NestJS` `Prisma` `Next.js` `React` `Tailwind` `Recharts`
+
+---
+
+## 🗂️ Outros projetos
+
+### Análise de bases
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [Comparador SERASA × Dívida Ativa](https://github.com/NatiivaZ/ccobi-sistema-comparacao-serasa) | Cruza as duas bases e aponta divergências, com métricas, gráficos e exportação | Python · Streamlit · Plotly · SQLite |
+| [Acompanhamento de vencimentos](https://github.com/NatiivaZ/ccobi-filtro-vencimento-divida) | Compara bases por ano de vencimento e guarda o histórico das execuções | Python · Streamlit · Plotly · SQLite |
+| [Reclassificador de exportações SERASA](https://github.com/NatiivaZ/ccobi-reclassificador-exportacoes-serasa) | Reorganiza e reclassifica as exportações do SERASA | Python · Streamlit · Pandas |
+
+### Automação de portais (RPA)
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [Inclusão CADIN em lote](https://github.com/NatiivaZ/ccobi-inclusao-cadin) | Inclui registros no CADIN (PGFN) a partir de uma planilha | Python · nodriver · Pandas |
+| [Baixas jurídicas CADIN](https://github.com/NatiivaZ/ccobi-baixas-cadin) | Executa baixas no CADIN Consulta Credora | Python · nodriver · Pandas |
+| [Inscrição SERASA via SIFAMA](https://github.com/NatiivaZ/ccobi-inscricao-serasa) | Automatiza a inscrição de devedores no SERASA pelo SIFAMA | Python · Selenium · Pandas |
+| [Baixas no portal SERASA](https://github.com/NatiivaZ/ccobi-baixas-serasa) | Processa baixas no portal SERASA Experian | Python · Selenium · Pandas |
+| [Assinatura de lotes no SIFAMA](https://github.com/NatiivaZ/ccobi-assinatura-lotes-sifama) | Assina lotes de publicação no DOU sem intervenção manual | Python · Selenium |
+
+### Utilitários
+
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| [Contagem de cartas SERASA](https://github.com/NatiivaZ/ccobi-contagem-cartas-serasa) | Conta as cartas SERASA a partir da planilha de autos | Python · Pandas |
+| [Conversor REGATI/PEFIN](https://github.com/NatiivaZ/ccobi-conversor-txt-xlsx) | Converte arquivos TXT de retorno em planilhas Excel | Python · XlsxWriter |
+
+> Os projetos CCOBI estão publicados como portfólio, sem credenciais, URLs internas ou dados reais. Cada repositório traz um `NOTICE.md` com os termos de uso e as regras de LGPD.
 
 ---
 
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nestjs,nextjs,react,postgres,sqlite,git,github,vscode&perline=6" alt="skills"/>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,nestjs,nextjs,react,tailwind,prisma,postgres,sqlite,selenium,git,github,vscode&perline=8" alt="Python, TypeScript, JavaScript, Node.js, NestJS, Next.js, React, Tailwind, Prisma, PostgreSQL, SQLite, Selenium, Git, GitHub, VS Code" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/NatiivaZ?style=for-the-badge&logo=github&label=Followers&color=38bdf8" alt="followers"/>
-<img src="https://img.shields.io/github/stars/NatiivaZ?affiliation=owner&style=for-the-badge&logo=github&label=Stars&color=a78bfa" alt="stars"/>
-<img src="https://img.shields.io/badge/Projetos%20CCOBI-11%20solu%C3%A7%C3%B5es-10b981?style=for-the-badge&logo=github" alt="repos"/>
-<img src="https://img.shields.io/badge/Foco-Dados%20%7C%20API%20%7C%20Automa%C3%A7%C3%A3o-38bdf8?style=for-the-badge" alt="foco"/>
-
-</div>
-
----
-
-## 🔥 Projetos principais — CCOBI / ANTT
-
-### 🥇 Destaque — API SERASA · PEFIN em Massa
-
-<p align="center">
-  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
-    <img src="https://img.shields.io/badge/API%20SERASA%20%C2%B7%20PEFIN-Plataforma%20completa-0ea5e9?style=for-the-badge&logo=nestjs&logoColor=white" alt="API SERASA PEFIN"/>
-  </a>
-  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  </a>
-  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  </a>
-  <a href="https://github.com/NatiivaZ/ccobi-api-serasa-pefin">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  </a>
-</p>
-
-**Inclusão e exclusão PEFIN em massa** — filas, rate limit, webhooks, dashboard em tempo real e ambientes de homologação/operação segregados.
-
-→ [**Abrir repositório**](https://github.com/NatiivaZ/ccobi-api-serasa-pefin)
-
----
-
-### 📈 Análise de bases
-
-| Projeto | Stack | Entrega |
-|---------|-------|---------|
-| [**Comparador SERASA × Dívida Ativa**](https://github.com/NatiivaZ/ccobi-sistema-comparacao-serasa) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Cruzamento de bases, métricas e exportação Excel |
-| [**Filtro de Vencimentos · Dívida Ativa**](https://github.com/NatiivaZ/ccobi-filtro-vencimento-divida) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Comparação por ano de vencimento com histórico SQLite |
-
-### ⚙️ CADIN & exportações
-
-| Projeto | Stack | Entrega |
-|---------|-------|---------|
-| [**Inclusão CADIN · Lote**](https://github.com/NatiivaZ/ccobi-inclusao-cadin) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Inclusão CADIN em lote a partir de planilha |
-| [**Baixas Jurídicas · CADIN**](https://github.com/NatiivaZ/ccobi-baixas-cadin) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Baixas jurídicas via Consulta Credora |
-| [**Reclassificador · Exportações SERASA**](https://github.com/NatiivaZ/ccobi-reclassificador-exportacoes-serasa) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Reclassificação de exportações SERASA |
-
-### 🤖 Automações SERASA & SIFAMA
-
-<p align="center">
-  <a href="https://github.com/NatiivaZ/ccobi-inscricao-serasa"><img src="https://img.shields.io/badge/Inscri%C3%A7%C3%A3o%20SERASA-SIFAMA%20%2F%20ANTT-6366f1?style=for-the-badge&logo=python&logoColor=white" alt="Inscrição SERASA"/></a>
-  <a href="https://github.com/NatiivaZ/ccobi-baixas-serasa"><img src="https://img.shields.io/badge/Baixas%20SERASA-Portal%20Experian-8b5cf6?style=for-the-badge&logo=python&logoColor=white" alt="Baixas SERASA"/></a>
-  <a href="https://github.com/NatiivaZ/ccobi-assinatura-lotes-sifama"><img src="https://img.shields.io/badge/Assinatura%20de%20Lotes-SIFAMA%20%2F%20DOU-f59e0b?style=for-the-badge&logo=python&logoColor=white" alt="Assinatura SIFAMA"/></a>
-</p>
-
-### 🧰 Utilitários operacionais
-
-<p align="center">
-  <a href="https://github.com/NatiivaZ/ccobi-contagem-cartas-serasa"><img src="https://img.shields.io/badge/Contagem%20de%20Cartas-SERASA-14b8a6?style=for-the-badge&logo=python&logoColor=white" alt="Contagem cartas"/></a>
-  <a href="https://github.com/NatiivaZ/ccobi-conversor-txt-xlsx"><img src="https://img.shields.io/badge/Conversor%20REGATI%2FPEFIN-TXT%20%E2%86%92%20XLSX-0d9488?style=for-the-badge&logo=python&logoColor=white" alt="Conversor TXT"/></a>
-</p>
-
----
-
-## 🎯 Em evidência agora
-
-| Tema | Status |
-|------|--------|
-| 🥇 **API SERASA · PEFIN** | Em evolução contínua |
-| 📊 **Comparador SERASA × Dívida Ativa** | Concluído |
-| ⚙️ **Automações CADIN** | Concluído |
 
 ---
 
 ## 📬 Contato
 
-<div align="center">
+Aberto a oportunidades em **análise de dados**, **automação/RPA** e **desenvolvimento de software**.
 
-**Aberto a oportunidades em análise de dados, automação/RPA ou desenvolvimento de software**
-
-[![LinkedIn](https://img.shields.io/badge/-Ruan%20Natividade-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-natividade)
-[![Portfolio](https://img.shields.io/badge/-Portf%C3%B3lio-0EA5E9?style=for-the-badge&logo=safari&logoColor=white)](https://natiivaz.github.io/Portifolio-/)
-[![Email](https://img.shields.io/badge/-ruan.natividade1%40icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruan.natividade1@icloud.com)
-
-<br/>
-
-<img src="https://img.shields.io/badge/Atualizado-Automaticamente-38BDF8?style=for-the-badge" alt="auto"/>
-<img src="https://img.shields.io/github/last-commit/NatiivaZ/NatiivaZ?color=38BDF8&style=for-the-badge&label=Last%20commit" alt="last commit"/>
-
-</div>
-
----
+[LinkedIn](https://www.linkedin.com/in/ruan-natividade-a09806360) · [Portfólio](https://natiivaz.github.io/Portifolio-/) · [ruan.natividade1@icloud.com](mailto:ruan.natividade1@icloud.com)
 
 <div align="center">
 
-### *Dados com clareza. Processos com rastreabilidade. Soluções que a equipe usa.*
-
-⭐ Se algum projeto ajudar, deixe uma star — fortalece o portfólio CCOBI
+<sub><i>Dados com clareza. Processos com rastreabilidade. Ferramentas que a equipe usa.</i></sub>
 
 </div>
